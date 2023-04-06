@@ -1,3 +1,18 @@
+---
+title: Building a Website
+author: Matt Kavanaugh
+date: "2023-03-23"
+output: html_document
+categories: "Building a Website"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
 # blog-8-Matt-Kavanaugh
 Template for Blog 8
 Overall, building a website was a fun and rewarding experience. I used two .Rmd files along with a single .yml file to build my site.
